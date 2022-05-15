@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\bin\Debug\netcoreapp3.1\TaskApe3-12JsonFile.exe
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\bin\Debug\netcoreapp3.1\TaskApe3-12JsonFile.deps.json
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\bin\Debug\netcoreapp3.1\TaskApe3-12JsonFile.runtimeconfig.json
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\bin\Debug\netcoreapp3.1\TaskApe3-12JsonFile.runtimeconfig.dev.json
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\bin\Debug\netcoreapp3.1\TaskApe3-12JsonFile.dll
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\bin\Debug\netcoreapp3.1\TaskApe3-12JsonFile.pdb
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.AssemblyInfo.cs
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.csproj.CopyComplete
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.dll
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.pdb
+C:\Users\user\Desktop\TaskApe3-12JsonFile\TaskApe3-12JsonFile\obj\Debug\netcoreapp3.1\TaskApe3-12JsonFile.genruntimeconfig.cache

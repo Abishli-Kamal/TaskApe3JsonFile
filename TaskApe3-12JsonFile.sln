@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApe3-12JsonFile", "TaskApe3-12JsonFile\TaskApe3-12JsonFile.csproj", "{98802820-343F-4B58-9913-AB107D4BEC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98802820-343F-4B58-9913-AB107D4BEC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98802820-343F-4B58-9913-AB107D4BEC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98802820-343F-4B58-9913-AB107D4BEC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98802820-343F-4B58-9913-AB107D4BEC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B626A1AD-9144-456F-9D71-6C35BAF6D988}
+	EndGlobalSection
+EndGlobal
